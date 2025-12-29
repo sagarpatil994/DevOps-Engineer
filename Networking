@@ -1,0 +1,67 @@
+#Networking fandamentals
+## Topics Covered
+- OSI Model and TCP/IP Model
+- IP Addressing and MAC Address
+- Routers, Switches, and Firewalls
+- Ports and Protocols
+- Client-Server Architecture
+
+## OSI Model
+The OSI model has 7 layers:
+1. Physical
+2. Data Link
+3. Network
+4. Transport
+5. Session
+6. Presentation
+7. Application
+
+## TCP/IP Model
+The TCP/IP model has 4 layers:
+1. Network Interface
+2. Internet
+3. Transport
+4. Application
+
+## Difference
+OSI is a theoretical model, while TCP/IP is a practical model used in real networks.
+
+## IP Address
+An IP address uniquely identifies a device on a network.
+Types:
+- IPv4
+- IPv6
+
+## MAC Address
+A MAC address is a physical address assigned to a network interface card.
+It works at the Data Link layer.
+
+## Router
+Connects different networks and works at Layer 3.
+
+## Switch
+Connects devices within the same network and works at Layer 2.
+
+## Firewall
+Provides security by allowing or blocking traffic based on rules.
+
+## Common Ports
+- HTTP: 80
+- HTTPS: 443
+- FTP: 21
+- SSH: 22
+- DNS: 53
+
+## Protocols
+- TCP: Reliable, connection-oriented
+- UDP: Fast, connectionless
+
+## Client-Server Architecture
+A client sends requests to a server, and the server responds.
+Example:
+- Web browser (Client)
+- Web server (Server)
+
+Used in web applications, databases, and enterprise systems.
+
+#####Completed####

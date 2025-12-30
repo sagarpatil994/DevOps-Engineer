@@ -15,7 +15,7 @@ This project demonstrates hosting a static HTML webpage using **NGINX on Linux**
 4. Deployed webpage on port 80
 5. Verified access using browser
 
-
+----Code -----
 
 <!DOCTYPE html>
 <html lang="en">

@@ -1,3 +1,22 @@
+# Linux + NGINX HTML Deployment
+
+This project demonstrates hosting a static HTML webpage using **NGINX on Linux**.
+
+## 🔧 Technologies Used
+- Linux (Ubuntu)
+- NGINX Web Server
+- HTML
+- Basic Networking (Ports, HTTP)
+
+## 🚀 Steps Performed
+1. Installed NGINX on Linux server
+2. Created a custom HTML webpage
+3. Configured NGINX server block
+4. Deployed webpage on port 80
+5. Verified access using browser
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
